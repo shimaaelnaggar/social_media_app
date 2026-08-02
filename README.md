@@ -67,7 +67,6 @@ lib
 ## 🎥 Demo Video
 
 Watch the demo here:
-
 https://youtube.com/shorts/1PdEvM982HQ?feature=share
 
 ---
