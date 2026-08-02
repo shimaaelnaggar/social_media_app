@@ -50,10 +50,6 @@ lib
 
 ## 📸 Screenshots
 
-| Login | Register |
-|-------|----------|
-| ![](assets/screenshots/login.jpeg) | ![](assets/screenshots/register.jpeg) |
-
 | Home Feed | Create Post |
 |-----------|-------------|
 | ![](assets/screenshots/home.jpeg) | ![](assets/screenshots/add_post.jpeg) |
@@ -72,7 +68,7 @@ lib
 
 Watch the demo here:
 
-**YouTube Link**
+https://youtube.com/shorts/1PdEvM982HQ?feature=share
 
 ---
 
