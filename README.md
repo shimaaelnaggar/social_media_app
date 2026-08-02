@@ -1,16 +1,98 @@
-# social_media_app
+# Social Media App
 
-A new Flutter project.
+A Flutter-based social media application that allows users to create posts, upload images, interact with other users through likes and comments, and manage authentication using Firebase.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- User Authentication
+- User Registration
+- Social Feed
+- Create Posts
+- Upload Images
+- Search Posts by Title
+- Search Users by Username
+- Like Posts with Like Counter
+- Comment on Posts
+- User Profile
+- Logout
+- Firebase Cloud Firestore Integration
+- Persistent User Session
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Image Picker
+- Shared Preferences
+- flutter_dotenv
+
+---
+
+## 📂 Project Structure
+
+```
+lib
+├── helper
+├── services
+├── utils
+├── views
+├── widgets
+└── main.dart
+```
+
+---
+
+## 📸 Screenshots
+
+| Login | Register |
+|-------|----------|
+| ![](assets/screenshots/login.png) | ![](assets/screenshots/register.png) |
+
+| Home Feed | Create Post |
+|-----------|-------------|
+| ![](assets/screenshots/home.png) | ![](assets/screenshots/create_post.png) |
+
+| Profile | Search |
+|---------|--------|
+| ![](assets/screenshots/profile.png) | ![](assets/screenshots/search.png) |
+
+| Comments |
+|----------|
+| ![](assets/screenshots/comments.png) |
+
+---
+
+## 🎥 Demo Video
+
+Watch the demo here:
+
+**YouTube Link**
+
+---
+
+## 📚 What I Learned
+
+- Integrating Firebase Authentication with Flutter.
+- Managing application data using Cloud Firestore.
+- Uploading and displaying images.
+- Building a social feed with likes and comments.
+- Implementing search functionality for users and posts.
+- Managing user sessions using Shared Preferences.
+- Securing configuration values using flutter_dotenv.
+
+---
+
+## 🚀 Getting Started
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
