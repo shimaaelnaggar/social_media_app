@@ -52,19 +52,19 @@ lib
 
 | Login | Register |
 |-------|----------|
-| ![](assets/screenshots/login.png) | ![](assets/screenshots/register.png) |
+| ![](assets/screenshots/login.jpeg) | ![](assets/screenshots/register.jpeg) |
 
 | Home Feed | Create Post |
 |-----------|-------------|
-| ![](assets/screenshots/home.png) | ![](assets/screenshots/create_post.png) |
+| ![](assets/screenshots/home.jpeg) | ![](assets/screenshots/add_post.jpeg) |
 
 | Profile | Search |
 |---------|--------|
-| ![](assets/screenshots/profile.png) | ![](assets/screenshots/search.png) |
+| ![](assets/screenshots/profile.jpeg) | ![](assets/screenshots/search.jpeg) |
 
 | Comments |
 |----------|
-| ![](assets/screenshots/comments.png) |
+| ![](assets/screenshots/comments.jpeg) |
 
 ---
 
